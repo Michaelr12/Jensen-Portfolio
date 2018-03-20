@@ -29,14 +29,4 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 
-//background color match
 
-var background = [
-rgb(00,255,255);
-rgb(255,00,255);
-rgb(00,00,255);
-rgb(00,255,00);
-rgb(255,255,00);
-]
-
-for(var i = 0; i.arr.length; i++)
